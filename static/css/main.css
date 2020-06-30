@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #CCC;
+    padding: 15px;
+}
+
+.content {
+    text-align: center;
+}
+
+.table {
+    margin: auto;
+    margin-bottom: 3%;
+}
